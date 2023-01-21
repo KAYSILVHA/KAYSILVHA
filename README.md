@@ -4,6 +4,13 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/edududuribeiro/">Kayra Silvha 😃️</a>
   </h1>
+  </div>
+<div align="center">
+  <a href="https://github.com/KAYSILVHA">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KAYSILVHA&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYSILVHA&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
   
   <p align="center">
     Sou Desenvolvedora de Software e Web e gosto muito de compartilhar meu conhecimento e aprendizado
