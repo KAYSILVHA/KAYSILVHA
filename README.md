@@ -23,6 +23,7 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png">
+  <img align="center" alt="Python" height="30" width="40" src="[https://cdn-icons-png.flaticon.com/512/1183/1183669.png](https://img.freepik.com/free-icon/snakes_318-368381.jpg)">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
