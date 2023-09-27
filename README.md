@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou a 
-    <a href="https://www.linkedin.com/in/kayrasilvacardoso/">Kay Silvha 😃️</a>
+    <a href="https://www.linkedin.com/in/kayrasilvacardoso/">Kayra Silva 😊🌼</a>
   </h1>
   </div>
 <div align="center">
