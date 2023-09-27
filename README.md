@@ -13,7 +13,7 @@
 </div>
   
   <p align="center">
-    Sou Desenvolvedora de Software e Web e gosto muito de compartilhar meu conhecimento e aprendizado!
+    Sou Desenvolvedora Full-Stack e gosto muito de compartilhar meu conhecimento e aprendizado!
   </p>
   
   <p align="center">
