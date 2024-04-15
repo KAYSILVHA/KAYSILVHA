@@ -54,7 +54,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{diskmari}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KAYSILVHA}/count.svg" /></p> 
 <br>
 </div>
 
