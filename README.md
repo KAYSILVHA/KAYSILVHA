@@ -209,7 +209,7 @@ $kay->startDay();
 
 <p align="center">
         <p align="center">
-    <img alt="Coding" width="200" src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/hatsune.png">
+    <img alt="Coding" width="200" src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/cute-miku.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         </p>
 <div align="center">
