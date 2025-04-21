@@ -27,7 +27,10 @@
 <br/>
 <br/>
 
-<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=ffcbdb&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
 <h3 align="center">
  Connect with Me
    </h3>
@@ -38,8 +41,9 @@
 <a href="mailto:kaysilvha@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
 </p>
 
-<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
-  
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=ffcbdb&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYSILVHA&theme=gotham&layout=compact"width="40%"/> 
@@ -53,7 +57,9 @@
 
 
 <br/>
-
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+  
+  
 <h3 align="center"> 
  TECH STACK<br>
 </h3>
@@ -130,23 +136,17 @@
     </td>
  </tr>
 </table>
-<br><br>
 </table>
 
-
-
-
-
-
-<!-- activity graph heroku-app start -->
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+  
+ <br/> 
 <p align="center">
     <a href="https://jrohit.com.np/">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAYSILVHA&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph heroku-app end -->
-
-
+<br/>
 <p align="center">
     <a href="https://github.com/KAYSILVHA/KAYSILVHA">
         <img src="https://github-profile-trophy.vercel.app/?username=KAYSILVHA&column=-1&theme=dracula&layout=compact"width="95%"/> 
@@ -154,13 +154,10 @@
 
 <p>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=ffcbdb&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
-</p> 
 
 
-
-
+<br/>
+<br/>
 <div align="center">
     
 ###### @2025 [DEV_KAY](https://kay-silvha-portfolio.vercel.app/), Inc. All rights reserved
