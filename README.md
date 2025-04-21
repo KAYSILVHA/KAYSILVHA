@@ -4,67 +4,42 @@
 
 
 <p align="center">
-  <a href="http://jrohit.com.np" target="_blank">
         <p align="center">
-    <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
-    <a href="http://jrohit.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=KAYSILVHA&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-    </a>
-
-<p align="center"><a href="https://github.com/KAYSILVHA"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
-
-<h3 align="center"><img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/master/code.gif?raw=true" height="20"</h3>
-
-<p align="center"><a href="https://github.com/KAYSILVHA"><img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
-
-<p>
-<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
-  
-</p>
+    <img alt="Coding" width="200" src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/hatsune.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+          
+<h3 align="center"><img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/code.gif" height="50"</h3>
 
 
+ <p align="center">
 <a href="https://github.com/KAYSILVHA/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20DEVELOPER;PROGRAMMER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=ffcbdb&vCenter=true&pause=1000&size=22" />
 </a>
+</p>
 
-<p>
+  <a href="http://jrohit.com.np" target="_blank" align="center">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=KAYSILVHA&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
+
+
+   <p align="center"><a href="https://github.com/KAYSILVHA"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+
+<br/>
+<br/>
+
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+<h3 align="center">
+ Connect with Me
+   </h3>
+<p align="center">
+<a href="https://kay-silvha-portfolio.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/kayrasilvacardoso/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/dev_kay.0/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="mailto:kaysilvha@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+</p>
+
 <img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
   
-</p>
-
-  <!--
-<a href="https://jrohit.com.np">
-    <img src="https://raw.githubusercontent.com/KAYSILVHA/KAYSILVHA/master/Final.png" alt="Clickable Image">
-</a> 
--->
-
-<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/master/2nd%20arrow.gif?raw=true">
-
-
-  <!-- Typing SVG by KAYSILVHA - https://github.com/KAYSILVHA/readme-typing-svg -->
-</p>
-
-###
-<p align="center">
- Connect with Me
-   </p>
-<p align="center">
-
-</p>
-
-
-### 
-<p align="center"> 
- VISITORS COUNT<br>
-  <img src="https://profile-counter.glitch.me/KAYSILVHA/count.svg"/>
-  </p>
-
-
-<p align="center"> 
-<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
-</p>  
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYSILVHA&theme=gotham&layout=compact"width="40%"/> 
@@ -76,51 +51,12 @@
 </p>
 
 
-<!-- <p align="center">
-  <a href="https://github.com/KAYSILVHA"><img src="contributions.svg"></a> -->
-</p>
 
 <br/>
 
-###
-<p align="center"> 
- 🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
- <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="25" height="25" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="25" height="25" />
-  </a>
-  <a href="https://d3js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="25" height="25" />
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="25" height="25" />
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="25" height="25" />
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" height="25" />
-  </a>
-
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="25" height="25" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="25" height="25" />
-  </a>
-  <a href="https://www.linux.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux" width="25" height="25" />
-  </a>
-  <a href="https://www.apple.com/macos/sonoma/" target="_blank">
-    <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
-  </a>
-</p>
-
-
-####
+<h3 align="center"> 
+ TECH STACK<br>
+</h3>
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -216,30 +152,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=KAYSILVHA&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
 
-
-
-
----
-<div align="center">
-
-#### 🅓🅔🅢🅘🅖🅝/🅥🅘🅢🅤🅐🅛 🅣🅞🅞🅛🅢
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-
-#### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-
-
-#### 🅥🅔🅡🅢🅘🅞🅝 🅒🅞🅝🅣🅡🅞🅛
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-</div>
-
-
-
-
-
 <p>
 
 <p align="center">
@@ -248,6 +160,12 @@
 
 
 
+
+<div align="center">
+    
+###### @2025 [DEV_KAY](https://kay-silvha-portfolio.vercel.app/), Inc. All rights reserved
+
+</div>
 
 
 <img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
