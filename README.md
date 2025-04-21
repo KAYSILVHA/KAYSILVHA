@@ -153,11 +153,65 @@
 </p>
 
 <p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=ffcbdb&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+
+### About me
+
+```php
+<?php
+
+class KayDev {
+    public $mood = "inspired";
+    public $stack = ["Frontend", "Backend", "Mobile", "Design"];
+    public $love = ["🌸 Anime", "🐾 Animals", "📚 Books", "👩‍🏫 Teaching", "🎵 Music"];
+    public $energy = 100;
+
+    public function startDay() {
+        echo "☀️ Good morning, tech world! Time to create something amazing...\n";
+        $this->choosePlaylist("Hatsune Miku 🎶");
+        $this->brewCoffee();
+        $this->codeSession();
+    }
+
+    private function choosePlaylist($song) {
+        echo "🎧 Now playing: $song\n";
+    }
+
+    private function brewCoffee() {
+        echo "☕ Coffee brewed. Creativity: +50!\n";
+    }
+
+    private function codeSession() {
+        foreach ($this->stack as $area) {
+            echo "💻 Mastering: $area with love and sparkles ✨\n";
+        }
+
+        foreach ($this->love as $thing) {
+            echo "💖 Inspired by: $thing\n";
+        }
+
+        echo "🚀 Turning ideas into cute and functional experiences!\n";
+    }
+}
+
+$kay = new KayDev();
+$kay->startDay();
+
+
+```
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=ffcbdb&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
 
 
 
-<br/>
-<br/>
+<p align="center">
+        <p align="center">
+    <img alt="Coding" width="200" src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/hatsune.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        </p>
 <div align="center">
     
 ###### @2025 [DEV_KAY](https://kay-silvha-portfolio.vercel.app/), Inc. All rights reserved
