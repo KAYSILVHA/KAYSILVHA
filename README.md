@@ -19,10 +19,20 @@
 
 <p align="center"><a href="https://github.com/KAYSILVHA"><img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
 
+<p>
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+  
+</p>
+
+
 <a href="https://github.com/KAYSILVHA/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20DEVELOPER;PROGRAMMER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=ffcbdb&vCenter=true&pause=1000&size=22" />
 </a>
 
+<p>
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+  
+</p>
 
   <!--
 <a href="https://jrohit.com.np">
@@ -38,26 +48,16 @@
 
 ###
 <p align="center">
-  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+ Connect with Me
    </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/KAYSILVHA" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://discord.com/users/KAYSILVHA#1528" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://jrohit.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/KAYSILVHA_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/KAYSILVHA" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/KAYSILVHA_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://facebook.com/KAYSILVHA" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://replit.com/@KAYSILVHA" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
-<a href="https://codepen.io/KAYSILVHA_" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="https://www.youtube.com/@BisKIRANVLOG" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
-<a href="mailto:KAYSILVHA@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+
 </p>
 
 
 ### 
 <p align="center"> 
- 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+ VISITORS COUNT<br>
   <img src="https://profile-counter.glitch.me/KAYSILVHA/count.svg"/>
   </p>
 
@@ -250,4 +250,4 @@
 
 
 
-<img src="https://github.com/KAYSILVHA/KAYSILVHA/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
