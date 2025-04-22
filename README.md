@@ -171,7 +171,7 @@ class KayDev {
     public function startDay() {
         echo "☀️ Good morning, tech world! Time to create something amazing...\n";
         $this->choosePlaylist("Hatsune Miku 🎶");
-        $this->brewCoffee();
+        $this->energyBoost();
         $this->codeSession();
     }
 
@@ -179,8 +179,8 @@ class KayDev {
         echo "🎧 Now playing: $song\n";
     }
 
-    private function brewCoffee() {
-        echo "☕ Coffee brewed. Creativity: +50!\n";
+    private function energyBoost() {
+        echo "✨ Magical energy boost activated. Creativity: +50!\n";
     }
 
     private function codeSession() {
